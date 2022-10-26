@@ -31,7 +31,7 @@ public class LoginSteps {
 		
 		for(int i=0;i<users.size();i++)
 		{
-			System.out.println(i+" "+users.get(i));
+			System.out.println(i+""+users.get(i));
 		}
 		for(int i=0;i<users.size();i++)
 		{
